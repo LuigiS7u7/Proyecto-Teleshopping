@@ -1,0 +1,10 @@
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO_ORDEN_DE_COMPRA.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\MODULO ORDEN DE COMPRA\obj\Debug\MODULO ORDEN DE COMPRA.pdb

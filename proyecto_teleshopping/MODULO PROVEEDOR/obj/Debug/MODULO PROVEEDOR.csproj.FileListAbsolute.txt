@@ -1,0 +1,17 @@
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe.config
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormRegistrarProveedor.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormEliminarProveedor.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO_PROVEEDOR.FormModificarProveedor.resources
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\MODULO PROVEEDOR\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\MODULO PROVEEDOR\obj\Debug\MODULO PROVEEDOR.csproj.CopyComplete

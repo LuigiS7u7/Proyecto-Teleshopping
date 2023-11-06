@@ -1,0 +1,11 @@
+C:\Users\miche\source\repos\DATOS_TSP\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\DATOS_TSP\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\DATOS_TSP\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\DATOS_TSP\obj\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\DATOS_TSP\obj\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\DATOS_TSP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\miche\source\repos\DATOS_TSP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\miche\source\repos\DATOS_TSP\obj\Debug\DATOS_TSP.csproj.CopyComplete

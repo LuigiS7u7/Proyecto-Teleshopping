@@ -1,0 +1,34 @@
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO USUARIO.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.Properties.Resources.resources
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.csproj.CopyComplete
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO TELESHOPPING.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormLogin.resources
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\obj\Debug\PROYECTO_TELESHOPPING.FormMenuPrincipal.resources
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\DATOS_TSP.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO FACTURA.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO ORDEN DE COMPRA.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.pdb
+C:\Users\miche\source\repos\PROYECTO TELESHOPPING\bin\Debug\MODULO PROVEEDOR.exe.config

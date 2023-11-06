@@ -1,0 +1,10 @@
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe.config
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\bin\Debug\MODULO EMPRESA DE TRANSPORTE.pdb
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO_EMPRESA_DE_TRANSPORTE.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.exe
+C:\Users\miche\source\repos\MODULO EMPRESA DE TRANSPORTE\obj\Debug\MODULO EMPRESA DE TRANSPORTE.pdb

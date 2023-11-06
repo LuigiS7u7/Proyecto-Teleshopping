@@ -1,0 +1,13 @@
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe.config
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\bin\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.SuggestedBindingRedirects.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormEliminarProducto.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormModificarProducto.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.FormRegistrarProducto.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO_PRODUCTOS_DE_CATALOGO.Properties.Resources.resources
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.exe
+C:\Users\miche\source\repos\MODULO PRODUCTOS DE CATALOGO\obj\Debug\MODULO PRODUCTOS DE CATALOGO.pdb
